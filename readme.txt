@@ -4,4 +4,4 @@ This lecture was done at Kookmin University by "Chinseok Lee".(7/31~8/4)
 
 ! THANK YOU !
 
-This repository also contains last project file of freshman 1st semesters.(in summer school)
+This repository also contains last project file of freshman 1st semesters.
